@@ -1,0 +1,21 @@
+{
+  "short_name": "react-pwa-app",
+  "name": "React Progressive Web Application",
+  "description": "React Progressive Web Application using Lighthouse",
+  "icons": [
+    {
+      "src": "/images/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "theme_color": "#F4BD42",
+  "background_color": "#2B2929",
+  "display": "standalone"
+}
